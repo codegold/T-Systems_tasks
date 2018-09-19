@@ -5,5 +5,5 @@
 4 Algorithm in JS --> fibonacchi.js and fibonacchi.py***
 
 
-9II29ЗI772
-petartopvn@gmail.com
+tel: 79II29ЗI772
+telegram: jun_coder
